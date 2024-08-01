@@ -1,1 +1,1 @@
-Solutions to 0x00-python_variable_annotations
+# Solutions to tasks on Python - Variable Annotations
